@@ -26,7 +26,7 @@ The Second-tiered Model is for separating support from attack.</br>
 [MLM for support and attack model](https://huggingface.co/Leonardolin/MLM_NTCIR_att_sup)</br>
 
 ## Boosting (SMDT_3)
-We propose an Adaboost inspired approach to enhance our classification model and improve overall performance scores.
+We propose an Adaboost inspired approach to enhance our classification model and improve overall performance scores.</br>
 [Code](https://github.com/ChingChingKao/The-17th-NTCIR/blob/main/Boosting/code/NTCIR_BERT_boosting_S%2BA.ipynb)</br>
 
 
