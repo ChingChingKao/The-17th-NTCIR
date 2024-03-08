@@ -1,7 +1,7 @@
 # NTCIR
 NTCIR Conference workshop</br>
-In this study, we present three methods for judging the relationships between sentences. 
-
+In this study, we present three methods for judging the relationships between sentences. </br>
+Our paper : [Quack at the NTCIR 17 FinArg 1 Task : Boosting and MLM Enhanced Financial Knowledge Sequence Classification](https://github.com/ChingChingKao/The-17th-NTCIR/blob/main/NTCIR_17_ACM_master_article.pdf)
 
 ## Two-tiered Bert Classification (SMDT_1)
 
